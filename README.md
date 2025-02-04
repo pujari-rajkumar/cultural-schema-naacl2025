@@ -1,1 +1,1 @@
-# cultural-schema-naacl2025
+# LLM-Human Pipeline for Cultural Grounding of Conversations
