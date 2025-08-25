@@ -1,0 +1,15 @@
+### Input:
+
+Norm ID: 9
+Conversation from Chinese culture:
+左正鵬(happiness): 伯母、您好，我是你麗華的同學呀！
+徐母(happiness): 小左，快請進，屋裏坐！屋裏坐！我早就聽到閨女講到你的情況，我們歡迎你呀！
+徐母(neutral): 老伴，你到代銷店裏去買瓶酒來，什麼“清明露”的都行。快去快回啊！
+
+Social Norm:
+2. Hospitality: Mrs. Xu warmly welcomes Zuo Zhengpeng into the house, offering him a seat and expressing happiness at his visit.
+
+### Response:
+
+Justification: In this conversation, Mrs. Xu demonstrates the social norm of hospitality by warmly welcoming Zuo Zhengpeng into her home and offering him a seat. This norm emphasizes the importance of showing kindness and generosity to guests, making them feel comfortable and valued in one's home.
+Relevance: Relevant

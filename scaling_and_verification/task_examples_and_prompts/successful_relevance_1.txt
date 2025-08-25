@@ -1,0 +1,15 @@
+### Input:
+
+Norm ID: 8
+Conversation from Chinese culture:
+左正鵬(happiness): 伯母、您好，我是你麗華的同學呀！
+徐母(happiness): 小左，快請進，屋裏坐！屋裏坐！我早就聽到閨女講到你的情況，我們歡迎你呀！
+徐母(neutral): 老伴，你到代銷店裏去買瓶酒來，什麼“清明露”的都行。快去快回啊！
+
+Social Norm:
+1. Respect for elders: Zuo Zhengpeng addresses Mrs. Xu as "伯母" (auntie) and shows respect by politely greeting her and accepting her invitation to enter the house.
+
+### Response:
+
+Justification: Zuo Zhengpeng shows respect for Mrs. Xu by addressing her as "伯母" and politely greeting her, which aligns with the Chinese social norm of respect for elders.
+Relevance: relevant

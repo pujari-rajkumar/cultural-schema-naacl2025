@@ -1,0 +1,45 @@
+### Input:
+
+Conversation from Chinese culture:
+左正鵬(neutral): 劉豔呀！“恰同學少年，風華正茂”這句詩是我們毛主席青年時期在一師讀書時在這橘子洲頭留下的名句。轉眼間已過去了半個多世紀。
+劉豔(neutral): 是呀！他老人家已經去世兩年多了，可是他的話還迴響在我們的耳邊。
+左正鵬(neutral): 子在川上曰：“逝者如斯夫”呀！劉豔，你現在的年紀也不小啦，對自己的終生大事也應該定了下來，請你取消對我的念頭，不要糊里糊塗的過日子！
+劉豔(neutral): 我早就下定決心要嫁給你，現在你還在和我兜圈子。你還在說我糊塗，真正的糊塗人纔是你呢！
+左正鵬(surprise): 我跟你說了多少次，你老是不聽。我已經是有妻之夫，並且又有了孩子，這怎麼能接受你爲妻呢？這是永遠不可能的事，你好自而爲之！
+劉豔(neutral): 正鵬，不管你怎麼拒絕我，可我作出的決定是任何人改變不了的！並且，我還要堅定不移的沿着這條曲折的路走下去，直至我生命的最後一天。
+左正鵬(surprise): “一夫一妻”制已經寫進了我們國家的“憲法”。你這樣做不是逼着我去犯法嗎？
+劉豔(surprise): 誰叫你去犯法？我又不要求你現在就和我結婚！
+左正鵬(surprise): 你怎麼這樣傻呢！這明明擺在我倆面前不可能做到的事，你爲什麼偏要強求我去做，這不是給我出難題嗎？不行，堅決不行！你如果還要執迷不悟的話，到頭來誤了自己的青春你別怪我啊！啊！對啦，楊偉同學不是想追求你嗎？我覺得他和你很般配，你就接受他的愛吧！他的家庭條件也不錯。
+劉豔(angry): 正鵬，你還是不是人呀？竟把自己未來的老婆介紹給別人！看你卑鄙不卑鄙！
+左正鵬(surprise): 劉豔，請你千萬別這樣說你是我未來的老婆。只能說你是我的同學，是我最真摯的朋友，徐麗華纔是我永遠的老婆。同時，你這樣說了使我感到心寒，這不是預示着我的家庭今後定會遇到一次什麼重大的變故嗎？
+劉豔(neutral): 正鵬，我也不存心去破壞你的家庭，做人都要講良心。我也知道你兩口子現在的關係也很好，我怎麼會去拆散你倆的姻緣呢？你要知道，人都有一種潛在的意識，只要你心裏裝着我，有我的位置，至於我倆結不結婚我都無所謂，我也毫不在乎。只要我倆能永遠保持友好關係，我就滿足了！
+左正鵬(surprise): 你想當我的“情婦”是嗎？
+劉豔(angry): 你在講什麼？把我當成什麼人了！我能是那號人物嗎？當別人“情婦”的女人同樣是破壞別人家庭的罪魁禍首。也是社會公德不允許做的事，你說，我在你妻子面前能做出那種事來嗎？我們相處這麼多年，我覺得你還沒有讀懂我的心。
+左正鵬(surprise): 你這又何苦呢！這不是自尋寂寞嗎？這樣做你的人生又有什麼意義呢？
+劉豔(neutral): 我的願望是，我要用自己頑強的毅力，耐心的等待下去。我要做你的合法妻子，哪怕我倆的生命到了人生的最後的盡頭，只要一天結合在一起我也滿足了。
+
+Social Norm:
+3. Filial piety
+
+Norm Concept Name: Care for parents
+Norm Concept Description: Children are expected to care for parents in their old age
+Norm Concept Potential Violation Sketch: Neglecting a parent in need or ignoring duty towards parent(s)
+Norm Concept Applicability Scenario: family
+Norm Concept Enactor Role: child
+Norm Concept Acceptor Role: parent
+
+### GPT-4o-mini Response:
+
+Social Norm - Norm Concept Compatibility: doesn't match  
+Compatibility Justification: The social norm of filial piety focuses on children caring for their parents, while the conversation primarily revolves around romantic relationships and personal desires, which do not directly relate to the care for parents.
+
+Relevance: irrelevant  
+Relevance Justification: The conversation does not involve any discussion about parental care or responsibilities towards parents, making the norm irrelevant to the context.
+
+Enactor Role: unsure  
+Acceptor Role: unsure  
+
+Violation Status: adhere  
+Violation Status Justification: Since the conversation does not pertain to the norm of filial piety, there is no adherence or violation of this norm present in the dialogue.
+Quality Judgment: accurate  
+Justification: The analysis correctly identifies that the social norm of filial piety does not match the context of the conversation, which focuses on romantic relationships rather than parental care. Additionally, it accurately assesses the relevance of the norm as irrelevant to the conversation, and correctly concludes that there is no adherence or violation of the norm present.

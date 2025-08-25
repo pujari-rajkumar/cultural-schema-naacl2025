@@ -1,0 +1,18 @@
+### Input:
+
+Conversation from Chinese culture:
+左正鵬(sadness): 嗨，做男人真難哪！既要對付自己的老婆，又要防範外界女人對自己“人身”的侵犯！
+左父(surprise): 正鵬，你剛纔說什麼？跟我再說一遍！
+左正鵬(neutral): 爸，我沒有說什麼，我只說我們男人做事好難爲人的。別的沒說什麼呀！
+左父(surprise): 正鵬我老實告訴你，你麗華不在家裏，晚上不能躥女人的門呀！
+左正鵬(neutral): 爸，你這是什麼意思，你好像看到我什麼似的。
+左父(neutral): 我能看到你什麼？我只是提醒提醒你而已！今後要注意下男女之間的是非！
+
+Social Norm:
+1. Respect for parents: Children are expected to respect and obey their parents' authority.
+
+### Response:
+
+Justification: In this conversation, the son is discussing the challenges of being a man and dealing with his wife and other women. The father then warns him about not getting involved with other women when his wife is not around. The father's reminder about respecting the boundaries between men and women can be seen as a reflection of the social norm of respect for parents, as he is advising his son to behave in a way that honors his marriage and family values.
+
+Relevance: Relevant

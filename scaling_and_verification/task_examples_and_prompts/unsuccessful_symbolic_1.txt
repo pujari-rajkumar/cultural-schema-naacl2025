@@ -1,0 +1,36 @@
+### Input:
+
+Conversation from Chinese culture:
+左正鵬(neutral): 麗華，小孩的分娩期還有多久？
+徐麗華(neutral): 大概在下個星期吧！
+左正鵬(happiness): 哎喲，寶寶在動呢！
+徐麗華(happiness): 看你那樣子羞死人的！
+徐麗華(neutral): 急什麼，反正還有幾天時間，到時再說，你想早點當爸爸是嗎？
+左正鵬(neutral): 不行！到時候就來不及了，還是先去醫院幾天等着好些，我們這裏交通又不方便，如果真的遇上了麻煩事，困難就大了。
+
+Social Norm:
+1. Respect for elders: It is common in Chinese culture to show respect to older family members, such as parents and grandparents.
+
+Norm Concept Name: Respect for family elders
+Norm Concept Description: Respecting the wisdom, experience, and authority of elder members in the family hierarchy.
+Norm Concept Potential Violation Sketch: Showing disrespect and ignoring suggestions and advice of any elder members of the family.
+Norm Concept Applicability Scenario: family
+Norm Concept Enactor Role: any younger family member
+Norm Concept Acceptor Role: elder family members such as parents, uncle, grand parents, etc.
+
+### GPT-4o-mini Response:
+
+Social Norm - Norm Concept Compatibility: match  
+Compatibility Justification: The social norm of respecting elders aligns with the norm concept of respecting family elders, as both emphasize the importance of honoring and valuing the wisdom and authority of older family members.
+
+Relevance: relevant  
+Relevance Justification: The conversation takes place within a family context, discussing the impending birth of a child, which inherently involves respect for family roles and responsibilities.
+
+Enactor Role: younger family member  
+Acceptor Role: elder family member  
+
+Violation Status: adhere  
+Violation Status Justification: The conversation reflects a respectful exchange between the younger family member and the elder family member, with no signs of disrespect or disregard for advice.
+
+Quality Judgment: accurate  
+Justification: The annotations correctly identify the compatibility of the social norm with the norm concept, the relevance to the family context, and the adherence to the norm in the conversation, reflecting a respectful interaction between the younger and elder family members.

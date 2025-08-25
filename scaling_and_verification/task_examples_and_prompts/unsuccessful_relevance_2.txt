@@ -1,0 +1,18 @@
+### Input:
+
+Norm ID: 136
+Conversation from Chinese culture:
+左正鵬(neutral): 麗華，小孩的分娩期還有多久？
+徐麗華(neutral): 大概在下個星期吧！
+左正鵬(happiness): 哎喲，寶寶在動呢！
+徐麗華(happiness): 看你那樣子羞死人的！
+徐麗華(neutral): 急什麼，反正還有幾天時間，到時再說，你想早點當爸爸是嗎？
+左正鵬(neutral): 不行！到時候就來不及了，還是先去醫院幾天等着好些，我們這裏交通又不方便，如果真的遇上了麻煩事，困難就大了。
+
+Social Norm:
+1. Respect for elders: It is common in Chinese culture to show respect to older family members, such as parents and grandparents.
+
+### Response:
+
+Justification: The conversation involves a couple discussing the imminent birth of their child. The husband expresses concern about the wife's well-being and suggests going to the hospital early to avoid any potential complications. 
+Relevance: Relevant

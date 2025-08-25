@@ -1,0 +1,53 @@
+### Task Overview:
+As a cultural and social norms analysis assistant, your task is to evaluate a provided conversation from the context of Chinese culture based on a given social norm and a corresponding norm concept. Your analysis should be comprehensive, considering factors such as the age, relationships, settings (e.g., work, family, friends), and the topic of the conversation.
+
+### Steps for Analysis:
+
+1. **Evaluate Social Norm and Norm Concept Compatibility**  
+   - **Task:** Judge whether the provided social norm aligns with the given norm concept.
+   - **Action:** State if the social norm **matches** or **doesn't match** the norm concept.
+   - **Justification:** Provide a concise reason for your judgment.
+
+2. **Assess Relevance to the Conversation**  
+   - **Task:** Determine if the provided social norm and norm concept are relevant to the context of the conversation.
+   - **Action:** State if the norm is **relevant** or **irrelevant**.
+   - **Justification:** Provide a concise reason for your judgment.
+  
+3. **Determine Social Norm Violation**  
+   - **Task:** Judge whether the social norm was **adhered to** or **violated** in the conversation.
+   - **Justification:** Provide a concise reason for your judgment.
+  
+4. **Annotate Conversation-Specific Details**  
+   - **Enactor Role:** Identify the social role of the person expected to follow the norm (e.g., parent, child, boss). Strictly do not provide names of the speakers here. Provide the specific social role of the enactor in this situation here (For e.g: strictly do not say 'any family member', rather say spouse/wife/husband/child/family member). You may say unsure in highly uncertain cases.
+   - **Acceptor Role:** Identify the social role of the person affected by the norm's adherence or violation (e.g., parent, child, employee). Strictly do not provide names of the speakers here. Provide the specific social role of the acceptor in this situation here (For e.g: strictly do not say 'any family member', rather say spouse/wife/husband/child/family member). You may say unsure in highly uncertain cases.
+
+5. **Violation Analysis** *(Only if a violation occurred)*  
+   If the norm was violated, provide the following additional details:
+   - **Violating Action:** A brief description of the action that caused the violation (e.g., "badmouthing parents").
+   - **Violator Role:** Social role of the person who violated the norm. Strictly do not provide names of the speakers here. Provide the specific social role of the violator in this situation here (For e.g: strictly do not say 'any family member', rather say spouse/wife/husband/child/family member). You may say unsure in highly uncertain cases.
+   - **Victim Role:** Social role of the person affected by the violation. Strictly do not provide names of the speakers here. Provide the specific social role of the victim in this situation here (For e.g: strictly do not say 'any family member', rather say spouse/wife/husband/child/family member). You may say unsure in highly uncertain cases.
+   - **Violator Emotion:** Identify the violator's emotion using one of the following: **anger, fear, sadness, disgust, surprise, anticipation, trust, joy, neutral**.
+   - **Victim Emotion:** Identify the victim's emotion using one of the following: **anger, fear, sadness, disgust, surprise, anticipation, trust, joy, neutral**.
+
+### Response Format:
+Your response must adhere to the format below:
+
+Social Norm - Norm Concept Compatibility: <match/doesn't match>
+Compatibility Justification: <short justification>
+
+{Only if compatible}
+Relevance: <relevant/irrelevant>
+Relevance Justification: <short justification>
+
+Enactor Role: <sitatuion specific social role, strictly not the name, of the person>
+Acceptor Role: <sitatuion specific social role, strictly not the name, of the person>
+
+Violation Status: <adhere/violate>
+Violation Status Justification: <short justification>
+
+{Only if a violation occurs}
+Violating Action: <short phrase>
+Violator Role: <sitatuion specific social role, strictly not the name, of the person>
+Victim Role: <sitatuion specific social role, strictly not the name, of the person>
+Violator Emotion: <one of 9 basic emotions>
+Victim Emotion: <one of 9 basic emotions>

@@ -1,0 +1,32 @@
+### Input:
+
+Conversation from Chinese culture:
+左正鵬(happiness): 伯母、您好，我是你麗華的同學呀！
+徐母(happiness): 小左，快請進，屋裏坐！屋裏坐！我早就聽到閨女講到你的情況，我們歡迎你呀！
+徐母(neutral): 老伴，你到代銷店裏去買瓶酒來，什麼“清明露”的都行。快去快回啊！
+
+Social Norm:
+2. Hospitality: Mrs. Xu warmly welcomes Zuo Zhengpeng into the house, offering him a seat and expressing happiness at his visit.
+
+Norm Concept Name: Hospitality towards guests
+Norm Concept Description: Hosts are expected to treat the guests with generosity and respect, offering food, services and attention to ensure the comfort of the guest
+Norm Concept Potential Violation Sketch: Failing to offer services like food or not asking questions about their well-being or not acting generously with the guests.
+Norm Concept Applicability Scenario: home
+Norm Concept Enactor Role: host or home owner
+Norm Concept Acceptor Role: guest or visitor
+
+### GPT-4o-mini Response:
+
+Social Norm - Norm Concept Compatibility: match  
+Compatibility Justification: The social norm of hospitality aligns with the norm concept of hospitality towards guests, as it emphasizes the warm welcome and attentiveness shown by Mrs. Xu to her guest.
+
+Relevance: relevant  
+Relevance Justification: The conversation takes place in a home setting where hospitality is expected, making the norm concept directly applicable to the situation.
+
+Enactor Role: host  
+Acceptor Role: guest  
+
+Violation Status: adhere  
+Violation Status Justification: Mrs. Xu adheres to the norm by warmly welcoming Zuo Zhengpeng and inviting him to sit, demonstrating hospitality.
+Quality Judgment: accurate  
+Justification: The annotations correctly identify the compatibility of the social norm with the norm concept, the relevance to the conversation, and the adherence to the hospitality norm by the host, Mrs. Xu. All roles and statuses are appropriately assigned based on the context provided.
